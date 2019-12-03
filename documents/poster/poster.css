@@ -1,33 +1,55 @@
+body{
+    background-image: url("../images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .container{
     height: 100%;
     display: flex; 
     flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+
 }
 
 .center{
     margin: 0 auto;
+    align-content: center;
 }
 
 .border{
-    border: 1px solid grey;
+    border: 1px solid whitesmoke;
     padding: 30px 100px;
     border-radius: 150px;
 }
 
+.title-box{
+    margin: 0 auto;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
 .logo{
-    width: 40%;
+    width: 60%;
 }
 
 .title{
+    margin: 0 auto;
+    align-content: center;
     font-weight:bolder;
     font-size: xx-large;
+    font: 900;
+    color: white;
 }
 
 .detail-box{
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    width: 50%;
+    width: 80%;
 }
 
 .detail-keywords{
@@ -35,12 +57,24 @@
     flex-direction: column;
     width: 30%;
     margin: 0 auto;
+    color: darkgrey;
 }
 
 .detail-image{
-    width: 30%;
-    height: 100%;
-    padding-right: 120px;
+    width: 70%;
+    height: 85%;
+}
+
+.image-desc{
+    align-content: center;
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.image-box{
+    display: flex;
+    flex-direction: column;
 }
 
 .keywords-item{
@@ -53,4 +87,11 @@
     margin-top: 15px;
     font-weight: bolder;
     font-size: 18px;
+}
+
+.register-info{
+    font-size: medium;
+    margin-top: 15px;
+    font-weight: bolder;
+    color: white;
 }
