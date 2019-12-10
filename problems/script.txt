@@ -1,0 +1,2 @@
+docker run -p 1274:80 -p 1275:81 -p 1276:82 -p 1277:83 --rm --name nginx -d nginx:latest
+docker run -p 9000:9000 --name php -d php:7.4-fpm
