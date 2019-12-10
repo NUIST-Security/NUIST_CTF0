@@ -1,8 +1,0 @@
-FROM nginx
-RUN rm -f /etc/service/sshd/down
-RUN sed -ri 's/^#?PermitRootLogin\s+.*/PermitRootLogin yes/' /etc/ssh/sshd_config
-
-COPY ./Web /var/www/html
-# COPY ./nginx.conf /etc/nginx/nginx.conf
-
-WORKDIR /var/www/html
