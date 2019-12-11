@@ -1,5 +1,5 @@
 <?php
-$sandbox = '/www/admin/localhost_80/wwwroot/upload/' . md5("phpIsBest" . $_SERVER['REMOTE_ADDR']);
+$sandbox = '/var/www/phpIsBest/upload/' . md5("phpIsBest" . $_SERVER['REMOTE_ADDR']);
 @mkdir($sandbox);
 @chdir($sandbox);
 
