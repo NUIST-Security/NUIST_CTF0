@@ -12,3 +12,5 @@ web
     phpIsBest   flag{gjgJHTFbkkgYgjbjFLILjiih}
     phpRevenge  flag{nUiStCtF--df3m2mlm54d/FDFKJlmf}
 
+msic
+    xp_desktop  flag{nuist_2019_0}
