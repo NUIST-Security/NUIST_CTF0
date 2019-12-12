@@ -124,7 +124,7 @@ h1,h2,h3,h4,h5,h6{ margin:0; padding:0; font-size:12px; font-weight:normal;}
 <body>
 <div style="margin:200px auto; padding:10px; border:7px double #B2B2B2; width:200px; height:auto;">
 当前登陆用户：admin<br><br>
-dGhlIGZsYWcgaXMgaGtqR0dKZ2dHR0pnZ2hqSEdGamtqaEdG<br>
+dGhlIGZsYWcgaXMgZmxhZ3toa2pHR0pnZ0dHSmdnaGpIR0Zqa2poR0Z9<br>
 </div>
 </body>
 <html>

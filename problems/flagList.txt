@@ -1,0 +1,14 @@
+pwn
+    little_pwn  flag{A443DBA8-3478-4A0F-8982-8E3379091BB4}
+    easy_canary flag{8FDB7E74-F4A7-4328-9174-2A3ADD09D42D}
+    baby_heap   flag{C4197973-C994-4FCB-BE98-276FCD323969}
+
+reverse
+    re1     Trinity{machine_you_are_so_beautiful!}
+
+web
+    welcome     flag{C0meT0NuistCtFwEb}
+    easyToLogin flag{hkjGGJggGGJgghjHGFjkjhGF}
+    phpIsBest   flag{gjgJHTFbkkgYgjbjFLILjiih}
+    phpRevenge  flag{nUiStCtF--df3m2mlm54d/FDFKJlmf}
+
