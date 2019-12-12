@@ -1,2 +1,0 @@
-docker run -p 1274:80 -p 1275:81 -p 1276:82 -p 1277:83 -v /root/NUIST_CTF0/problems/Web/dockerEnv/conf.d:/etc/nginx/conf.d -v /root/NUIST_CTF0/problems/Web/dockerEnv/www:/var/www --rm --name nginx -d nginx:latest
-docker run -p 9000:9000 -v /root/NUIST_CTF0/problems/Web/dockerEnv/www:/var/www --rm --name php -d php:7.4-fpm
