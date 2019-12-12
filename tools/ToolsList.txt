@@ -1,0 +1,4 @@
+IDA 7.0
+gdb
+burpsuite
+010editor
