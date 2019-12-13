@@ -20,4 +20,4 @@ msic
 crypto
     RSA         flag{p*q*r*s_and*you*get*the*right*key*nuister}
     easy_base64 flag{Y0u_have_known_b@se64_and_ur1encode}
-    emoji       flag{WELLDONENUISTBOY}
+    emoji       flag{welldonenuistboy}
