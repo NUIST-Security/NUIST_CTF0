@@ -16,6 +16,7 @@ msic
     xp_desktop  flag{nuist_2019_0}
     a_lying_cat nuist{Y0u_Are_go0d@misc}
     png         flag{nuist_PNG_misc}
+    test        flag{94C60101-37F0-4249-A256-D4222596AE93}
 
 crypto
     RSA         flag{p*q*r*s_and*you*get*the*right*key*nuister}
