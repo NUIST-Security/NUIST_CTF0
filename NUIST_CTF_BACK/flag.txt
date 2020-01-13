@@ -1,0 +1,15 @@
+flag{A443DBA8-3478-4A0F-8982-8E3379091BB4} 100
+flag{8FDB7E74-F4A7-4328-9174-2A3ADD09D42D} 150
+flag{C4197973-C994-4FCB-BE98-276FCD323969} 200
+Trinity{machine_you_are_so_beautiful!} 150
+flag{C0meT0NuistCtFwEb} 50
+flag{hkjGGJggGGJgghjHGFjkjhGF} 100
+flag{gjgJHTFbkkgYgjbjFLILjiih} 150
+flag{nUiStCtF--df3m2mlm54d/FDFKJlmf} 200
+flag{nuist_2019_0} 200
+nuist{Y0u_Are_go0d@misc} 50
+flag{nuist_PNG_misc} 50
+flag{94C60101-37F0-4249-A256-D4222596AE93} 10
+flag{p*q*r*s_and*you*get*the*right*key*nuister} 150
+flag{Y0u_have_known_b@se64_and_ur1encode} 100
+flag{welldonenuistboy} 100

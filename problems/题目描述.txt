@@ -1,0 +1,24 @@
+题目类型：题目	    题目描述			题目地址
+pwn	
+    little_pwn  	简单linuxIO     ftp://172.16.43.104/problems/pwn	nc 172.16.43.104 9999
+    easy_canary 	简单栈溢出        ftp://172.16.43.104/problems/canary	nc 172.16.43.104 10000
+    baby_heap   	简单堆            ftp://172.16.43.104/problems/heap	nc 172.16.43.104 10001
+
+reverse
+    re1     		一个简单的逆向    ftp://172.16.43.104/problems/re1
+
+web
+    welcome     	欢迎来到南京信息工程大学ctf   172.16.43.104:1274
+    easyToLogin 	曲奇饼干真好吃。            172.16.43.104:1275
+    phpIsBest       众所周知，PHP是最好的语言    172.16.43.104:1276
+    phpRevenge      序列化的反义词是啥来着？   172.16.43.104:1277
+
+misc
+    xp_desktop      蓝天白云            ftp://172.16.43.104/problems/xp_desktop.raw
+    a_lying_cat     听说flag被猫吃过了  ftp://172.16.43.104/problems/a_lying_cat.jpg
+    png             这是一张坏掉的PNG，你可以把它修复吗？ ftp://172.16.43.104/problems/bad.png
+
+crypto
+    RSA             你了解RSA加解密吗？ftp://172.16.43.104/problems/RSA
+    easy_base64     不仅仅是base64   ftp://172.16.43.104/problems/easy_base64.txt
+    emoji           摩斯电码         ftp://172.16.43.104/problems/emoji.txt
